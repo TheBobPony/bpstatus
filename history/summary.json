@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.bobpony.com.ico",
     "slug": "downloads",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "uptime": "97.61%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
     "time": 2545,
     "timeDay": 370,
     "timeWeek": 2545,
     "timeMonth": 2545,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2024-01-04": 0,
+      "2024-01-05": 46,
+      "2024-01-04": 1,
       "2024-01-03": 15
     }
   }
