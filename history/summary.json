@@ -22,7 +22,7 @@
     "url": "https://dl.bobpony.com",
     "icon": "https://icons.duckduckgo.com/ip3/dl.bobpony.com.ico",
     "slug": "downloads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 262,
     "timeYear": 1383,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2024-01-28": 15,
       "2024-01-26": 18,
       "2024-01-23": 401,
